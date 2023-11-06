@@ -2,12 +2,14 @@
 
 ## The Problem
 
-There are many (many) quiz games on the internet, so why build a new one?  Well - we see that there are many issues with most quizzes out there:
+There are many (many) quiz games on the internet, so why build a new one?  
+
+Problems with most quizzes:
 
 * Questions have no difficulty rating (where do you start?)
 * Questions have no explanations (how do you learn?)
 * Poor quality questions (no rating / review system)
-* Requirement for personal details (eg, email)
+* Require excessive personal info (eg, email)
 * Lack of monetisation for question creators
 * No way to create your own quizzes
 
