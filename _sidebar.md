@@ -2,4 +2,6 @@
 * [Levels](/levels.md)
 * [Questions](/questions.md)
 * [Quizzes](/quizzes.md)
+* [Reports](/reports.md)
+* [Review](/review.md)
 * [FAQ](/faq.md)
