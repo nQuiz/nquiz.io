@@ -8,12 +8,12 @@ It's a difficult call, and so we make the judgement through an algorithm that ta
 
 The algorithm is as follows:
 
-`avZaps` = the average number of zaps received per question, or 1, whichever is higher. Calculated daily.
-`avRep` = the average amount of reputation per user, or 1, whichever is higher.  Calculated daily.
-`qZaps` = number of unique players who have zapped the question revision at the time the report is made
-`pRep` = reputation of the player making the report at the time the report is made
+* `avZaps` = the average number of zaps received per question, or 1, whichever is higher. Calculated daily.
+* `avRep` = the average amount of reputation per user, or 1, whichever is higher.  Calculated daily.
+* `qrZaps` = number of unique players who have zapped the question revision (at the time the report is made).
+* `pRep` = reputation of the player making the report (at the time the report is made).
 
-The `reportScore` of one report against a question revision is calculated as:  `qZaps/avZaps + pRep/avRep`.  Players may only submit one report per revision.
+The `reportScore` of one report against a question revision is calculated as:  `qrZaps/avZaps + pRep/avRep`.  Players may only submit one report per revision.
 
 When the sum of the reports on that question revision exceeds a threshold of `21` the question is removed from the question bank and the creator is notified.  The question must then be adjusted, and resubmitted to the [review](/review.md) process.
 
