@@ -21,28 +21,6 @@ We charge small amounts of bitcoin to eliminate spam, to compensate the contribu
 Sats (Satoshis) are units of bitcoin.  1 BTC = 100,000,000 Sats.
 
 
-## Why was my question reported?
-There are a number of ways to write a bad question.  Examples (no particular order):
-
-* Opinionated question (eg, what is the 'best' or 'most effective' way to do XXX)
-* Poor grammar / spelling mistakes
-* Images in questions that have large file sizes (these can be slow to load on mobile devices)
-* Use of unformatted code (use backticks or indent with 4 spaces to style as code)
-* Use of code lines over 32 chars (causes scrolling on mobile)
-* No links to further information (remember, the aim is to TEACH)
-* No explanation, just reiteration of the question (remember, the aim is to TEACH)
-* Question is too obvious / too easy / inappropriate
-* Question is too obscure / not something a professional would or should know
-
-Sometimes a question may be downvoted without good reason - and so a system is in place to prevent a review being triggered for already-proven questions.  The rules are as follows:
-
-Question has 5 or fewer zaps: Report by Level 2 player or above will trigger review
-Question has 6-10 zaps: Report by Level 3 player or above will trigger review
-Question has 11-20 zaps: Report by Level 4 player or above will trigger review
-Question has 21-30 zaps: Report by Level 5 player  or above will trigger review
-Question has 31 or more zaps: Report by Level 6 or 7 player will trigger review
-
-
 ## How does question linking work?
 
 It is necessary to provide some level of protection over the direct viewing of questions for a number of reasons:
