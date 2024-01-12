@@ -18,7 +18,7 @@ A job runs at 4am to perform the following logic:
 There must be a minimum of 36 questions before the first quiz is created.  At 48 questions the second quiz is created, at 60 the third - etc etc.
 
 ## Multiplayer
-Available to players of Level 6 and above (unless unlocked with tokens), multiplayer lets you create an interactive challenge!  Once in a ready room, you can use the instant chat to communicate.  When ready, click the 'get started' button to begin play.  The winner is the one with the most correct answers, if it's a tie then it's the player with the fastest finish time. The organiser pays for the game (100 sats) and also gets to choose which tags are used to filter the questions.
+Available to players of Level 6 and above, multiplayer lets you create an interactive challenge!  Once in a ready room, you can use the instant chat to communicate.  When ready, click the 'get started' button to begin play.  The winner is the one with the most correct answers, if it's a tie then it's the player with the fastest finish time. The organiser pays for the game (100 sats) and also gets to choose which tags are used to filter the questions.
 
 ## Custom
-This feature, unlocked at Level 7, lets you build a quiz for your students to enjoy.  You can choose from all questions that have at least 4 upvotes.  It will cost 21 sats for each student you wish to take the test.  You are able to review their scores, and see the overall leaderboard results.
+This feature, unlocked at Level 7, lets you build a quiz for your students to enjoy.  You can choose from all questions that have received at least 4 zaps.  It will cost 21 sats for each student you wish to take the test.  You are able to review their scores, and see the overall leaderboard results.
