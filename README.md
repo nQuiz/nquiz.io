@@ -39,3 +39,11 @@ Current games include:
 |https://yoga.nquiz.io|Yoga|npub1dgx6ck20e933he7rgtlec4ckru7khmg6gd0a4jc4gjz0w6zur2sq3q9qjs|
 |https://quizr.io|R Development|npub1kt3659wpkwlsx3fh5t6rqrl7sfm3404x96pa5fqeuypgc9wz5a4q0tgwee|
 
+Upcoming games:
+
+|Site|Topic|nPub|
+|---|---|---|
+|https://btcquiz.io |Bitcoin |npub10xhg94xe82ek62zmser53d9smxf7wn9zjry4w6p5fjkhjwjaja9sdw28w8|
+|https://nostrquiz.com|Nostr |npub1cel7f7wwhh9yzthhcl5lflwnf2crlrt4fnuzgctv3fmtwxyfenpqv33f9u|
+|https://quiz.ll.land|Liberland |npub16l047wtk64x5v0y0ttqqevn3m2spjt2j8jgkgypva6nh63rn6xaqj5sckx|
+
